@@ -2,3 +2,8 @@
 A demo repository for the atlas workshop.
 
 I will be adding more to this repository as we learn about more features.
+
+## About
+
+* Author:  Brandon Death
+* Fun Fact: Snakes don't have ears
